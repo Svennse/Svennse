@@ -10,8 +10,6 @@ Ich bin Sven, ein begeisterter Junior-Webentwickler-Anfänger mit einem starken 
 
 | Projekt | Beschreibung |
 |---------|-------------|
-| [Projektname 1](https://github.com/IhrBenutzername/Projektname1) | Kurze Beschreibung des Projekts |
-| [Projektname 2](https://github.com/IhrBenutzername/Projektname2) | Kurze Beschreibung des Projekts |
 
 ## Technologien und Tools
 
@@ -33,13 +31,11 @@ Haben Sie Fragen oder möchten Sie sich über meine Arbeit informieren? Fühlen 
 
 [![Anzahl der Beiträge](https://activity-graph.herokuapp.com/graph/?username=[IhrGitHubBenutzername]&theme=dracula&hide_border=true)](https://github.com/IhrBenutzername)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=[IhrGitHubBenutzername])](https://github.com/IhrBenutzername)
+[![Profile Views](https://komarev.com/ghpvc/?username=[IhrGitHubBenutzername])](https://github.com/Svennse)
 
 ## Meine GitHub-Meilensteine
 
 ![GitHub streak stats — IOI](https://github-readme-streak-stats.herokuapp.com/?user=[IhrGitHubBenutzername]&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[IhrGitHubBenutzername]&layout=compact&theme=dark)
 
-## Letzte Aktivität
 
-![GitHub Activity](https://github-readme-activity-graph.rastating.dev/graph?username=[IhrGitHubBenutzername]&theme=react&hide_border=true&color=1e95ea&bg_color=ffffff00)
