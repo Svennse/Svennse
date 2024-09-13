@@ -21,15 +21,5 @@ Haben Sie Fragen oder möchten Sie sich über meine Arbeit informieren? Fühlen 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Information-0077B5.svg)](https://www.linkedin.com/in/[IhrLinkedInProfil])
 
-## Statistiken
-
-[![Anzahl der Beiträge](https://activity-graph.herokuapp.com/graph/?username=[IhrGitHubBenutzername]&theme=dracula&hide_border=true)](https://github.com/IhrBenutzername)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=[IhrGitHubBenutzername])](https://github.com/Svennse)
-
-## Meine GitHub-Meilensteine
-
-![GitHub streak stats — IOI](https://github-readme-streak-stats.herokuapp.com/?user=[IhrGitHubBenutzername]&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[IhrGitHubBenutzername]&layout=compact&theme=dark)
 
 
