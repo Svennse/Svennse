@@ -1,6 +1,6 @@
 # Mein GitHub-Profil
 
-![Avatar](https://github.com/ISvennse)
+![Avatar](https://avatars.githubusercontent.com/u/129845404?v=4)
 
 ## Über mich
 
