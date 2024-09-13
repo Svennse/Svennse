@@ -6,11 +6,6 @@
 
 Ich bin Sven, ein begeisterter Junior-Webentwickler-Anfänger mit einem starken Interesse an modernen Webtechnologien und kreativen Lösungen. Mein Ziel ist es, professionelle und benutzerfreundliche Websites zu entwickeln.
 
-## Meine Projekte
-
-| Projekt | Beschreibung |
-|---------|-------------|
-
 ## Technologien und Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,7 +19,6 @@ Ich bin Sven, ein begeisterter Junior-Webentwickler-Anfänger mit einem starken 
 
 Haben Sie Fragen oder möchten Sie sich über meine Arbeit informieren? Fühlen Sie sich frei, mir eine Nachricht zu hinterlassen!
 
-[![Twitter](https://img.shields.io/twitter/follow/[IhrTwitterKonto]?style=social)](https://twitter.com/[IhrTwitterKonto])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Information-0077B5.svg)](https://www.linkedin.com/in/[IhrLinkedInProfil])
 
 ## Statistiken
